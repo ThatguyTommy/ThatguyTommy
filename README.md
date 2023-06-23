@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Tommy! <br/><a href="https://github.com/ThatguyTommy"></a> <a href="https://www.linkedin.com/in/Tommy-Goodman/"> Future Cybersecurity Professional</a></h1>
 
-<!--
-**ThatguyTommy/ThatguyTommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<h2>👨‍💻 Education:</h2>
+
+<h2>📺 Certifications</h2>
+
+- [CompTia A+](https://www.comptia.org/landing/aplus/index.html?utm_compid=cpc-google-paid_search_certs-A%2B-text_ad-na-a%2B-B2C&utm_compid=cpc-google-paid_search_certs-a%2B-a%2B-2021_04_01-a%2B-B2C)
+- [CompTia Network +](https://www.comptia.org/landing/networkplusbootcamp/index.html?utm_compid=cpc-google-paid_search_lot-Network%2B-text_ad-na-network%2B-B2C)
+- [CompTia Security +](https://www.comptia.org/landing/certificationsecurityplus-v1/index.html?utm_compid=cpc-google-paid_search_certs-Security%2B-text_ad-na-security%2B-B2C)
+- [CompTia Pentest +](https://www.comptia.org/landing/pentestplus/index.html?utm_compid=cpc-google-paid_search_certs-Pentest%2B-text_ad-na-pentest%2B-B2C)
+- [ISC(2) SSCP](https://www.isc2.org/Certifications/SSCP)
