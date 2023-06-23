@@ -9,6 +9,12 @@
 
 <h2>👨‍💻 Education:</h2>
 
+- [Elizabethtown Technical Community College || Associates In Information Security Track](https://elizabethtown.kctcs.edu/education-training/programs/computer-information-technology/degree-information-security-track.aspx)
+- [Western Governs Univeristy || Bachelors in Cybersecurity and Information Assurance ](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html)
+
+
+
+
 <h2>📺 Certifications</h2>
 
 - [CompTia A+](https://www.comptia.org/landing/aplus/index.html?utm_compid=cpc-google-paid_search_certs-A%2B-text_ad-na-a%2B-B2C&utm_compid=cpc-google-paid_search_certs-a%2B-a%2B-2021_04_01-a%2B-B2C)
